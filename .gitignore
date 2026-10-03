@@ -1,0 +1,27 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+# Ignore log files
+*.log
+# Ignore environment files
+.env
+.env.local
+*.key
+# Ignore build artifacts
+dist/
+build/
+*.o
+*.class
+# Ignore dependency directories
+node_modules/
+vendor/
+venv/
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+# Ignore temporary files
+tmp/
+*.cache
+# Exceptions (un-ignore specific files)
+!important.log
