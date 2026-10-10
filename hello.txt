@@ -3,3 +3,4 @@ This is the second line
 This is thrird line from feature1 branch
 This is Forth line added 
 This is fifth line added
+This is sixth line added from feature1 branch
